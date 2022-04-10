@@ -8,7 +8,7 @@ This repository contains my submissions for the course.
 
 ## Deployments
 
-- [Module 2][a relative link](mod2_solution)
-- [Module 3][a relative link](mod3_solution)
-- [Module 4][a relative link](mod4_solution)
-- [Module 5][a relative link](mod5_solution)
+- [a relative link](mod2_solution)
+- [a relative link](mod3_solution)
+- [a relative link](mod4_solution)
+- [a relative link](mod5_solution)
